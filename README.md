@@ -63,4 +63,4 @@ Road hazards such as potholes and speed breakers are a common cause of accidents
 
 ## Author
 
-Dinesh Reddy Narra
+SINGARAJU DHANUSH KESAVA VARMA
