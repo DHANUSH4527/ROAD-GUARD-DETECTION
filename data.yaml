@@ -1,0 +1,9 @@
+﻿train: robo_dataset/train/images
+val: robo_dataset/valid/images
+test: robo_dataset/test/images
+
+nc: 2
+
+names:
+  0: pothole
+  1: speed_breaker
